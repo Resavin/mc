@@ -1,0 +1,70 @@
+[15:39:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:39:48] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:39:48] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:39:50] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:39:50] [Server thread/INFO]: Loading properties
+[15:39:50] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 22aaf91)
+[15:39:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:39:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:39:50] [Server thread/INFO]: Default game type: SURVIVAL
+[15:39:50] [Server thread/INFO]: Generating keypair
+[15:39:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:39:51] [Server thread/INFO]: Using epoll channel type
+[15:39:51] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[15:39:51] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:39:51] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.6
+[15:39:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:39:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:39:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:39:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:39:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:39:51] [Server thread/INFO]: Preparing level "world"
+[15:39:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:39:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:52] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:53] [Server thread/INFO]: Time elapsed: 1338 ms
+[15:39:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:39:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:53] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:54] [Server thread/INFO]: Time elapsed: 951 ms
+[15:39:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:39:54] [Server thread/INFO]: Preparing spawn area: 0%
+[15:39:54] [Server thread/INFO]: Time elapsed: 385 ms
+[15:39:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.6
+[15:39:54] [Server thread/INFO]: [SkinsRestorer] Using PaperSkinRefresher
+[15:39:54] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_17_R1, using PaperSkinRefresher.
+[15:39:55] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:39:56] [Server thread/INFO]: Running delayed init tasks
+[15:39:56] [Server thread/INFO]: Done (5.987s)! For help, type "help"
+[15:39:56] [Server thread/INFO]: Timings Reset
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.1.6
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer]     This is the latest version!
+[15:40:01] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:41:22] [User Authenticator #1/INFO]: UUID of player HansChristianA is d51aee21-abff-3391-a5d2-6bb565a615a0
+[15:41:22] [Server thread/INFO]: HansChristianA joined the game
+[15:41:22] [Server thread/INFO]: HansChristianA[/62.148.157.122:29451] logged in with entity id 282 at ([world]-1.3126800271257444, 68.0, -279.8517053692566)
+[15:44:52] [Server thread/INFO]: HansChristianA lost connection: Disconnected
+[15:44:52] [Server thread/INFO]: HansChristianA left the game
+[15:45:18] [Server thread/INFO]: Stopping the server
+[15:45:18] [Server thread/INFO]: Stopping server
+[15:45:18] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.6
+[15:45:18] [Server thread/INFO]: Saving players
+[15:45:18] [Server thread/INFO]: Saving worlds
+[15:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:45:18] [Server thread/INFO]: Flushing Chunk IO
+[15:45:18] [Server thread/INFO]: Closing Thread Pool
+[15:45:18] [Server thread/INFO]: Closing Server
